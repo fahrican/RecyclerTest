@@ -1,7 +1,9 @@
-package com.example.android.recyclertest;
+package com.example.android.recyclertest.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.android.recyclertest.R;
 
 public class MainActivity extends AppCompatActivity {
 
